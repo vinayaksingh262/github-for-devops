@@ -6,7 +6,3 @@ git add .
 git commit -m "added testing files"
 git restore filename
 git clone https://github.com/vinayaksingh262/github-for-devops.git
-this is normal update
-git branch
-git branch branch_name
-git switch
